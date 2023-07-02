@@ -3,6 +3,7 @@
 
 ## **Contact information:**
 
+* **Location:** Kazakhstan, Karaganda
 * **Phone:** +7 701 538 60 54
 * **E-mail:** tyurina_da@gravitum.net
 * **Telegram:** @DaryaGravitum
@@ -27,4 +28,10 @@ Marketing (Bachelor's degree)
 * Courses
     * HTML Academy
     * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+## **Languages**
+Russian (Native)
+
+
+English (intermediate B1)
 
