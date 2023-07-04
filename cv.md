@@ -4,8 +4,8 @@
 ## **Contact information:**
 
 * **Location:** Kazakhstan, Karaganda
-* **Phone:** +7 701 538 60 54
-* **E-mail:** tyurina_da@gravitum.net
+* **Phone:** +7 701 538 70 50
+* **E-mail:** tyurinadasha23@gmail.com
 * **Telegram:** @DaryaGravitum
 * [Linkedin](https://www.linkedin.com/feed/?trk=onboarding-landing)
 * [GitHub](https://github.com/tyurinaDA)
@@ -13,7 +13,7 @@
 ## **About me:** 
 Hello, everyone! I'm really excited about becoming a frontend developer. Although I don't have any previous experience in this field, I've recently embarked on my journey to learn and master the art of frontend development.
 
-I've always been imaged by the process of creating visually user-friendly websites. It's amazing how a well-designed interface can improve the overall user experience. That's why  I want to learn the fundamentals of frontend technologies like HTML, CSS, and JavaScript.
+I've always interested in the process of creating visually user-friendly websites.It's amazing how a well-designed interface can improve the overall user experience. That's why  I want to learn the fundamentals of frontend technologies like HTML, CSS, and JavaScript.
 
 ## **Skills**
 * HTML
