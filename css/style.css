@@ -25,11 +25,6 @@
     line-height: 27px;
   }
 
-  .container {
-    max-width: 1440px;
-    margin: 0 auto;
-  }
-
   .nav-list {
     display: flex;
     justify-content: space-evenly;
@@ -52,20 +47,11 @@
 
   }
 
-  .nav-link:after {
-    content: "";
-    position: absolute;
-    left: 1px;
-    bottom: -5px;
-    width: calc(100% - 24px);
-    height: 2px;
-    transition: .5s;
-}
-
   .main {
     display: flex;
     justify-content: flex-start;
   }
+
  .main-first{
     flex-basis: 600px;
     margin-left: auto;
