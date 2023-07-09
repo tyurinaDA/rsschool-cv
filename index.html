@@ -3,24 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CV</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="assets/favicon-cv.ico">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="icon" href="assets/favicon-cv.ico">
+    <link rel="stylesheet" href="css/style.css">
+    <title>CV</title>
 </head>
 <body>
     <header class="header">
         <div class="container">
             <nav class="nav">
                 <ul class="nav-list">
-                    <li class="nav-item"><a href="#contacts" class="nav-link">contacts</a></li>
                     <li class="nav-item"><a href="#summary" class="nav-link">summary</a></li>
-                    <li class="nav-item"><a href="#skills" class="nav-link">skills</a></li>
                     <li class="nav-item"><a href="#code" class="nav-link">code</a></li>
-                    <li class="nav-item"><a href="#courses" class="nav-link">courses</a></li>
                     <li class="nav-item"><a href="#projects" class="nav-link">projects</a></li>
+                    <li class="nav-item"><a href="#courses" class="nav-link">courses</a></li>
+                    <li class="nav-item"><a href="#contacts" class="nav-link">contacts</a></li>
+                    <li class="nav-item"><a href="#skills" class="nav-link">skills</a></li>
                     <li class="nav-item"><a href="#education" class="nav-link">education</a></li>
                     <li class="nav-item"><a href="#language" class="nav-link">language</a></li>
                 </ul>
@@ -30,21 +30,25 @@
     <main class="main">
         <div class="main-first">
             <section class="section" id="profile">
-                <h1 class="section-title name">Tyurina Darya</h1>
+                <h1 class="section-title name">Tyurina <span class="name-color">Darya</span></h1>
                 <p class="subtitle">Junior Frontend Developer</p>
             </section>
             <section class="section" id="summary">
                 <br><br>
                 <h2 class="section-title">summary</h2>
-                <p class="desc">Hello, everyone! I'm really excited about becoming a frontend developer. Although I don't have any previous experience in this field, I've recently embarked on my journey to learn and master the art of frontend development.<br>I've always interested in the process of creating visually user-friendly websites.It's amazing how a well-designed interface can improve the overall user experience. That's why I want to learn the fundamentals of frontend technologies like HTML, CSS, and JavaScript.</p>
+                <p class="desc">Hello, everyone! I'm really excited about becoming a frontend developer. Although I don't have any previous experience in this field, I've recently embarked on my journey to learn and master the art of frontend development.<br>I've always been interested in the process of creating user-friendly web sites. It's amazing how a well-designed interface can improve the overall user experience. That's why I want to learn the fundamentals of frontend technologies like HTML, CSS, and JavaScript.</p>
             </section>
             <section class="section" id="code">
                 <h2 class="section-title">code</h2>
-                <p class="desc">function factorial(n) {
-                if (n ❮ 0) return null;
-                if (n === 0) return 1;
-                return n * factorial(n-1);
-                </p>
+                <pre class="code">
+const factorial = (n) => {
+    if (n < 0) return null; 
+    if (n === 0) return 1; 
+    return n * factorial(n-1);
+}
+
+console.log(factorial(8));
+              </pre>
             </section>
              <section class="section" id="projects">
                 <h2 class="section-title">projects</h2>
@@ -60,7 +64,7 @@
         </div>
         <div class="create-line"></div>
         <div class="main-second">
-            <img src="/assets/img/avatar.png" alt="">
+            <img src="/assets/img/avatar.png" alt="avatarka">
             <section class="section" id="contacts">
                 <h2 class="section-title">contacts</h2>
                 <ul ul class="desc">
@@ -97,7 +101,7 @@
         <div class="footer-info">
         <p>© 2023</p>
         <p><a href="https://github.com/tyurinaDA" class="nav-link">tyurinaDA</a></p>
-        <a href="https://rs.school/js-stage0/"><img src="assets/img/rs-logo.svg" class="footer-img" alt="logo RS school"></a>
+        <a class="footer-img" href="https://rs.school/js-stage0/"></a>
         </div>
     </footer>
 </body>
