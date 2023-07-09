@@ -7,7 +7,6 @@
 * **Phone:** +7 701 538 70 50
 * **E-mail:** tyurinadasha23@gmail.com
 * **Telegram:** @DaryaGravitum
-* [Linkedin](https://www.linkedin.com/feed/?trk=onboarding-landing)
 * [GitHub](https://github.com/tyurinaDA)
 
 ## **About me:** 
