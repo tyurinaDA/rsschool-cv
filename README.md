@@ -1,1 +1,1 @@
-# rsschool-cv
+https://tyurinada.github.io/rsschool-cv/
