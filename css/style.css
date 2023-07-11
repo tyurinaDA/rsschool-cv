@@ -50,7 +50,6 @@
   .main {
     display: flex;
     justify-content: center;
-    align-items: center;
     flex-wrap: wrap;
   }
 
@@ -60,6 +59,7 @@
     margin-right: auto;
     padding-left: 20px;
     padding-right: 20px;
+    border-right: 8px ridge rgba(149, 125, 214, 0.6);
   }
 
   .main-second {
@@ -67,6 +67,7 @@
     margin-left: auto;
     margin-right: auto;
     padding-left: 20px;
+    padding-right: 20px;
   }
 
   .section {
@@ -169,7 +170,7 @@
 
   .code {
     background-color: rgba(181, 181, 181, 0.131);
-    padding-left: 10px;
+    padding-left: 30px;
     padding-top: 15px;
     border: 1px solid rgb(128, 125, 250);
   }
@@ -191,6 +192,7 @@
     background-color: rgba(181, 181, 181, 0.131);
     font-size: 14px;
     max-height: 40px;
+    margin-top: 20px;
   }
 
   .footer-link {
